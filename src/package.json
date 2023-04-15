@@ -1,0 +1,42 @@
+{
+  "name": "ello",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^6.0.13",
+    "@react-navigation/native-stack": "^6.9.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.2",
+    "ejs": "^3.1.8",
+    "expo": "~46.0.9",
+    "expo-status-bar": "~1.4.0",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20",
+    "react": "18.0.0",
+    "react-native": "0.69.5",
+    "react-native-paper": "^5.0.0-rc.5",
+    "tedious": "^15.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@expo/ngrok": "^4.1.0"
+  },
+  "private": true,
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samanthatuhseng/Ello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samanthatuhseng/Ello/issues"
+  },
+  "homepage": "https://github.com/samanthatuhseng/Ello#readme"
+}
